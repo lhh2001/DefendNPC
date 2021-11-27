@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{3379455A-4CB8-2D5F-BC8E-C2BC33D94BEF}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "DefendNPC",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "AdvancedSessions",
+			"Enabled": true
+		}
+	]
+}
