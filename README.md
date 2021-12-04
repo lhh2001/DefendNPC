@@ -62,3 +62,25 @@
 - [Windows平台打包程序](https://share.weiyun.com/TQM9Ct2S)
 - [demo视频](https://share.weiyun.com/YKNCBoVJ)
 
+## 作业7 渲染基础
+
+2021腾讯游戏客户端公开课作业7，在之前作业基础上实现：
+
+- 出生空气墙(红色透明材质)；
+- 整备区和战斗区之间的空气墙(单向通过)，从不同方向看过去会有不同的颜色；
+- 被榴弹枪击杀角色身上会有蓝色火焰；
+- 角色死亡会有黑白的后处理特效。
+
+
+
+平台：
+
+- Windows (64-bit)
+
+
+
+相关链接：
+
+- [Windows平台打包程序](https://share.weiyun.com/pkZt2ACc)
+- [demo视频](https://share.weiyun.com/z6cZH35T)
+
