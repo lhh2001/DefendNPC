@@ -18,3 +18,8 @@ void ADefendNPCGameMode::RespawnCharacter(APlayerController* PlayerController)
 {
 	RespawnCharacterEvent(PlayerController);
 }
+
+void ADefendNPCGameMode::RespawnAICharacter(AAIController* AIController)
+{
+	RespawnAICharacterEvent(AIController);
+}

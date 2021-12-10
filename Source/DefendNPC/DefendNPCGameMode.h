@@ -4,6 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "GameFrameWork/PlayerController.h"
+#include "AIController.h"
 #include "GameFramework/GameModeBase.h"
 #include "DefendNPCGameMode.generated.h"
 
@@ -23,7 +24,10 @@ public:
 
 	UFUNCTION(BlueprintCallable)
 	void RespawnCharacter(APlayerController* PlayerController);
+	
+	UFUNCTION(BlueprintImplementableEvent)
+	void RespawnAICharacterEvent(AAIController* AIController);
+
+	UFUNCTION(BlueprintCallable)
+	void RespawnAICharacter(AAIController* AIController);
 };
-
-
-

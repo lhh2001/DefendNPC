@@ -84,3 +84,23 @@
 - [Windows平台打包程序](https://share.weiyun.com/pkZt2ACc)
 - [demo视频](https://share.weiyun.com/z6cZH35T)
 
+## 作业8 AI技术
+
+2021腾讯游戏客户端公开课作业8，在之前作业基础上实现：
+
+- 添加AI；
+- 完成AI的寻敌、移动、开火和躲避。
+
+
+
+平台：
+
+- Windows (64-bit)
+
+
+
+相关链接：
+
+- [Windows平台打包程序](https://share.weiyun.com/NQUAyY2I)
+- [demo视频](https://share.weiyun.com/75FZT3RV)
+
